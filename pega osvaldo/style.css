@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700');
+
+/* TEXTOS */
+
+h1{
+    color: aliceblue;
+    font-family: 'Arvo', serif;
+    text-align: center;
+
+}
+h2{
+    padding-top: 5%;
+    color: aliceblue;
+    font-family: 'Arvo', serif;
+    text-align: center;
+
+  }
+
+h3{
+    color: aliceblue;
+    font-family: 'Arvo', serif;
+    text-align: center;
+
+  }
+
+p{
+    padding-top: 5%; 
+    color: aliceblue;
+    text-align: center;
+  }
+
+/* SECCIONES */
+
+
+.navbar{ /*para poner transparente*/
+    background-color: transparent;   
+}
+
+.vialactea{
+    background-image:url(Archivo/vialactea1.jpg);
+
+}
+
+.pasos{
+    background-color: rgb(14, 14, 49);
+}
+.why{
+    background-image: url(Archivo/sanpeter2.jpg);
+}
+.gallery{
+    background-color: rgb(14, 14, 49);
+
+}
+
+/*BOTONES*/
+
+.comenzar{
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 100px;
+    background-color: rgb(187, 148, 22);
+    border-color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    
+    
+}
+.buttonInitial{
+  padding-bottom:20%;
+}
+
+/*IMAGENES*/
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.englishPhpotos{
+    margin-right: 10px;
+    
+}
+.spanishPhoto{
+    margin-right: 10px;
+    margin-top: 2px;
+}
